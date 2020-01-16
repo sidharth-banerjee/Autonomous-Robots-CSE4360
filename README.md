@@ -1,6 +1,7 @@
 # Robotics-CSE4360
 
 Projects completed in CSE 4360 - Autonomous Robots
+
   Project 1: Navigating a known Obstacle Course with the Lego Robot
   Project 2: Behavior-based Fire Alarm Robot
   Project 3: Simplified Soccer
